@@ -7,8 +7,9 @@ Continue on previous old [repo](github.com/antinucleon/edx-dl) by [antinucleon](
 Unlink `https://github.com/coursera-dl/edx-dl`, this codebase is <300 lines. Less time to tinker. 
 
 Also, can visually cheat. So, it's more adaptive to future changes (russia ban).
+I mean, chrome is magic
 
-Imagine you right click the element to copy xpath. Rather than, stratch ur head to debug into a maze, which might fail anywhere anytime...(of course)
+Imagine you right click the element to copy xpath. Rather than, Scratch ur head to debug into a maze, which might fail anywhere anytime...(of course)
 
 ## Result
 ----------
