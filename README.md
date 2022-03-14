@@ -6,6 +6,18 @@ I was using `https://github.com/coursera-dl/edx-dl` to backup some courses I wan
 
 This script is usable but I don't have time to do more test, and I have no plan to maintain this project. However it is straightforward to update because it is just 200 lines of code.
 
+### Result
+----------
+
+1. download course BEM1105x
+    video
+    slides
+    quzz snapshot is not perfect (cutoff)
+
+2. seperate folder as Unit
+
+3. full automation
+
 ## OS
 
 Linux, Ubuntu (see below)
@@ -45,4 +57,3 @@ kaggle master: https://bingxu.io/20200724/about.html
 ## docs selenium 
 
 well, now we use latest api.
-
