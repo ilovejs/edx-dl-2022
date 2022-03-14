@@ -2,12 +2,18 @@
 
 ## 0. Motivation
 
-I was using `https://github.com/coursera-dl/edx-dl` to backup some courses I want to learn but delayed due to 1000+ reasons. However seems this project is no longer maintained. So I spend a few hours to write a small tool.
+Continue on previous old [repo](github.com/antinucleon/edx-dl) by [antinucleon](https://github.com/antinucleon)
 
-This script is usable but I don't have time to do more test, and I have no plan to maintain this project. However it is straightforward to update because it is just 200 lines of code.
+Unlink `https://github.com/coursera-dl/edx-dl`, this codebase is <300 lines. Less time to tinker. 
 
-### Result
+Also, can visually cheat. So, it's more adaptive to future changes (russia ban).
+
+Imagine you right click the element to copy xpath. Rather than, stratch ur head to debug into a maze, which might fail anywhere anytime...(of course)
+
+## Result
 ----------
+
+spent a few hours to get it working
 
 1. download course BEM1105x
     video
@@ -47,10 +53,6 @@ Python virtual env (optional)
 - Headless mode may be buggy due to lacking wait for some loadings. However I am lazy to make it correct. 
 
 ## first author
-
-[antinucleon](https://github.com/antinucleon)
-
-[repo](github.com/antinucleon/edx-dl)
 
 kaggle master: https://bingxu.io/20200724/about.html
 
