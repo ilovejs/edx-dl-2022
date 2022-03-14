@@ -1,0 +1,7 @@
+user:
+  <EMAIL>
+psw:
+  "<PASSWORD>"
+course:
+  # course url should get close to this form. You should see 'Resume course', All the unit 0..n
+  https://learning.edx.org/course/course-v1:CaltechX+BEM1105x+3T2020/home
